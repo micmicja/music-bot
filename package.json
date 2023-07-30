@@ -9,7 +9,11 @@
         "start": "node main.js"
     },
     "dependencies": {
+<<<<<<< Updated upstream
         "discord-x`": "^5.4.0",
+=======
+        "discord-player": "^5.4.0",
+>>>>>>> Stashed changes
         "discord.js": "^14.1.2",
         "ffmpeg-static": "^5.0.2",
         "ms": "^3.0.0-canary.1",
