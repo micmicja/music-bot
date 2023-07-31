@@ -1,10 +1,6 @@
 module.exports = {
     app: {
-<<<<<<< Updated upstream
-        token: 'OTUxNDU1OTE2Nzk0OTk4ODA0.Gf87KV.I_PXKn7qrpAcDGpgQ-qCmicj3X1EbTVbqYbXuU',
-=======
-        token: 'OTUxNDU1OTE2Nzk0OTk4ODA0.G7lVMd.RiigkAC0UF-PWvZOtgQ2EP-jgNbp87NwnqaUHg',
->>>>>>> Stashed changes
+        token: 'OTUxNDU1OTE2Nzk0OTk4ODA0.G2v9CT._GUGPelQ-S9LgpP7vxec-b8SvjIpL1348b2tnQ',
         playing: 'by ja ❤️',
         global: true,
         guild: 'XXX'
